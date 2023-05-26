@@ -1,5 +1,8 @@
 # coffee-quality-database
-Digitizing 1,340 coffee reviews
+ehmtang:
+* Made edits to web scraper, now supports Selenium .... See requirements.txt for full details
+* Data collected from the Coffee Quality Institute's [review pages](https://database.coffeeinstitute.org/) in May 2023
+* Dataset now contains XXXX arabica and XXX robusta coffee beans reviews
 
 # Data
 These data contain reviews of 1312 arabica and 28 robusta coffee beans from the Coffee Quality Institute's trained reviewers. The features include:
