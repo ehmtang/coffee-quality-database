@@ -1,8 +1,8 @@
 # coffee-quality-database
 ehmtang:
-* Made edits to web scraper, now supports Selenium .... See requirements.txt for full details
+* Made edits to web scraper
 * Data collected from the Coffee Quality Institute's [review pages](https://database.coffeeinstitute.org/) in May 2023
-* Dataset now contains XXXX arabica and XXX robusta coffee beans reviews
+* Building Looker Studio report and BigQuery queries
 
 ___
 
