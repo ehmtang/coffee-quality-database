@@ -1,0 +1,1510 @@
+coffee_id,Moisture,Color,Category One Defects,Category Two Defects,Quakers
+#261473,11.80%,Green,0 full defects,3 full defects,0
+#984405,11.70%,Green,4 full defects,12 full defects,0
+#693585,10.60%,greenish,0 full defects,1 full defects,0
+#274853,12.40%,Greenish,1 full defects,9 full defects,0
+#154686,11.10%,pale yellow,0 full defects,1 full defects,2
+#127584,9.20%,Greenish,0 full defects,0 full defects,0
+#125800,10.20%,Pale Yellow,0 full defects,1 full defects,1
+#356700,10%,Bluish-Green,0 full defects,0 full defects,0
+#150681,9.10%,Green,0 full defects,0 full defects,0
+#744798,8.40%,Green,0 full defects,0 full defects,0
+#329719,12.20%,Bluish-Green,0 full defects,2 full defects,0
+#443473,11.90%,Green,0 full defects,0 full defects,0
+#275002,13.10%,Green,0 full defects,0 full defects,0
+#183019,11.20%,Green,0 full defects,5 full defects,1
+#947066,10.40%,Greenish,0 full defects,11 full defects,1
+#677657,10.10%,Green,0 full defects,3 full defects,0
+#434200,10.10%,Blue-Green,0 full defects,0 full defects,0
+#735285,11.60%,Green,0 full defects,0 full defects,2
+#191702,0%,Green,0 full defects,3 full defects,0
+#852126,10.70%,Blue-Green,0 full defects,1 full defects,0
+#913173,13.50%,greenish,0 full defects,0 full defects,0
+#128172,9.60%,Green,0 full defects,1 full defects,0
+#126358,11.50%,brownish,0 full defects,1 full defects,0
+#989481,11.10%,Green,0 full defects,5 full defects,0
+#201057,12.30%,Yellow-Green,0 full defects,16 full defects,0
+#918443,9.70%,Greenish,0 full defects,0 full defects,0
+#917199,11.40%,Green,0 full defects,0 full defects,0
+#138975,10.90%,brownish,0 full defects,2 full defects,0
+#431038,10.40%,Greenish,0 full defects,8 full defects,0
+#526397,9.60%,Green,0 full defects,1 full defects,0
+#914711,11.60%,Green,0 full defects,4 full defects,0
+#814258,10.50%,Bluish-Green,0 full defects,3 full defects,0
+#442273,11.30%,Green,0 full defects,5 full defects,1
+#233123,11.80%,greenish,0 full defects,1 full defects,1
+#764728,9.70%,Greenish,0 full defects,2 full defects,0
+#748900,11.80%,Blue-Green,0 full defects,0 full defects,0
+#946237,11.90%,greenish,0 full defects,0 full defects,1
+#102399,9.60%,Green,0 full defects,2 full defects,0
+#106719,11.80%,brownish,0 full defects,7 full defects,0
+#449544,13.10%,Bluish-Green,0 full defects,1 full defects,0
+#405157,8.90%,Blue-Green,0 full defects,0 full defects,0
+#689252,11.50%,Greenish,0 full defects,3 full defects,1
+#300720,11.90%,Green,2 full defects,1 full defects,0
+#280845,10.20%,yellow-green,0 full defects,0 full defects,0
+#241548,11.60%,Yellow- Green,0 full defects,2 full defects,3
+#915144,10%,Green,0 full defects,4 full defects,0
+#470272,11.80%,Yellow-Green,0 full defects,5 full defects,0
+#249591,13.30%,Green,0 full defects,4 full defects,0
+#864968,11.80%,pale yellow,0 full defects,1 full defects,0
+#995570,10.50%,Green,5 full defects,1 full defects,2
+#421693,9.60%,Green,0 full defects,2 full defects,0
+#370112,11.20%,Yellow Green,0 full defects,0 full defects,0
+#146278,13%,Greenish,1 full defects,0 full defects,0
+#989796,11.80%,Green,0 full defects,2 full defects,1
+#895349,8.40%,Blue-Green,0 full defects,2 full defects,0
+#655504,10.60%,Green,0 full defects,0 full defects,0
+#794972,10.10%,Green,0 full defects,0 full defects,0
+#211361,9.80%,Green,0 full defects,0 full defects,0
+#876726,10.70%,pale yellow,0 full defects,0 full defects,0
+#547819,8.40%,Green,0 full defects,2 full defects,0
+#840458,11.30%,Green,0 full defects,2 full defects,0
+#295641,11.70%,Blue-Green,0 full defects,1 full defects,0
+#451085,11.40%,Bluish-Green,0 full defects,0 full defects,0
+#322731,11.80%,Bluish-Green,0 full defects,0 full defects,0
+#494650,10.20%,Green,0 full defects,0 full defects,0
+#112317,12%,Green,0 full defects,10 full defects,7
+#142692,10.80%,Green,0 full defects,1 full defects,0
+#539926,10.50%,Bluish-Green,0 full defects,0 full defects,0
+#958749,11.70%,greenish,0 full defects,3 full defects,1
+#824584,11.20%,Green,0 full defects,2 full defects,0
+#886281,10.60%,Green,1 full defects,5 full defects,0
+#348647,9.70%,Bluish-Green,0 full defects,0 full defects,0
+#105052,8.10%,Greenish,0 full defects,3 full defects,0
+#656152,11.50%,Blue-Green,0 full defects,2 full defects,1
+#175322,9.80%,Green,0 full defects,0 full defects,0
+#617945,10.30%,yellow-green,0 full defects,0 full defects,0
+#934594,8.20%,Green,0 full defects,1 full defects,0
+#594815,10.50%,Green,1 full defects,8 full defects,2
+#847918,12.50%,Bluish-Green,0 full defects,0 full defects,0
+#571059,11.60%,greenish,0 full defects,2 full defects,2
+#709384,10.30%,Greenish,0 full defects,1 full defects,0
+#663913,11.30%,Green,0 full defects,0 full defects,0
+#208327,11.20%,Green,0 full defects,4 full defects,0
+#772299,11.50%,Green,0 full defects,3 full defects,0
+#801129,11.30%,Pale Yellow,0 full defects,2 full defects,0
+#275886,11.20%,yellow-green,0 full defects,0 full defects,0
+#638524,11.30%,Green,0 full defects,2 full defects,2
+#448890,11.10%,yellow-green,0 full defects,0 full defects,0
+#587946,11.80%,Green,2 full defects,2 full defects,0
+#531106,9%,Yellow-green,0 full defects,0 full defects,0
+#793199,9.70%,Green,0 full defects,4 full defects,2
+#553743,8.50%,Green,0 full defects,0 full defects,0
+#223636,11.60%,Green,2 full defects,1 full defects,0
+#625390,10.50%,yellowish,0 full defects,5 full defects,0
+#126973,10.40%,Green,0 full defects,0 full defects,0
+#300209,11.40%,Greenish,0 full defects,2 full defects,2
+#153864,10.60%,greenish,0 full defects,1 full defects,2
+#814850,11%,brownish,0 full defects,1 full defects,0
+#829408,10.50%,Bluish-Green,0 full defects,7 full defects,8
+#707378,11.50%,greenish,0 full defects,3 full defects,1
+#826756,11.20%,Green,0 full defects,5 full defects,0
+#483718,11%,greenish,0 full defects,3 full defects,3
+#181854,11.50%,Bluish-Green,0 full defects,7 full defects,10
+#242592,11.80%,greenish,0 full defects,11 full defects,6
+#420582,11.60%,greenish,0 full defects,2 full defects,1
+#319783,11.40%,Green,0 full defects,4 full defects,0
+#723401,10.40%,Green,0 full defects,12 full defects,2
+#217253,11.60%,Green,0 full defects,11 full defects,9
+#346202,10%,Greenish,0 full defects,0 full defects,0
+#531918,10.50%,Blue-Green,0 full defects,0 full defects,0
+#978770,11.60%,yellowish,0 full defects,0 full defects,0
+#367114,11.30%,brownish,0 full defects,2 full defects,0
+#928398,9.80%,Browish-Green,0 full defects,5 full defects,0
+#948279,10.40%,Green,0 full defects,0 full defects,0
+#127725,10.60%,Bluish-Green,0 full defects,0 full defects,0
+#717129,9.10%,Green,0 full defects,2 full defects,0
+#300191,11.30%,Green,2 full defects,3 full defects,0
+#741300,10.20%,Blue-Green,0 full defects,0 full defects,0
+#888419,10.60%,Green,0 full defects,0 full defects,0
+#829336,9.30%,Green,0 full defects,0 full defects,0
+#460896,10.40%,yellowish,0 full defects,2 full defects,0
+#389965,11.40%,Bluish-Green,0 full defects,0 full defects,0
+#894623,11.30%,Green,0 full defects,0 full defects,0
+#778206,10.80%,Green,0 full defects,0 full defects,0
+#611011,12.30%,Yellow Green,0 full defects,4 full defects,3
+#917098,9.90%,Green,0 full defects,3 full defects,2
+#736196,9.50%,Bluish-Green,0 full defects,0 full defects,0
+#387213,9.20%,Greenish,0 full defects,1 full defects,0
+#423394,9.40%,Greenish,0 full defects,1 full defects,1
+#197220,11.30%,Green,0 full defects,0 full defects,0
+#259403,10.30%,Bluish-Green,0 full defects,0 full defects,0
+#877064,11.80%,Green,0 full defects,0 full defects,0
+#546930,10%,Brownish,0 full defects,0 full defects,0
+#994657,10.50%,greenish,0 full defects,0 full defects,0
+#725808,10%,Pale Yellow,0 full defects,5 full defects,0
+#614786,11.30%,Green,0 full defects,4 full defects,0
+#280251,10.10%,yellow green,0 full defects,0 full defects,0
+#938229,9.90%,Green,0 full defects,1 full defects,1
+#261460,11%,Green,0 full defects,1 full defects,0
+#952428,10.90%,Green,0 full defects,0 full defects,0
+#599652,9.50%,Green,0 full defects,2 full defects,0
+#647123,11.70%,Green,0 full defects,1 full defects,3
+#270359,11.60%,Yellow-Green,0 full defects,2 full defects,2
+#680765,10.70%,greenish,0 full defects,0 full defects,0
+#699883,9.50%,greenish,0 full defects,0 full defects,0
+#541397,9.70%,Brownish,0 full defects,0 full defects,0
+#777610,11.20%,Greenish,0 full defects,0 full defects,0
+#350205,11.90%,Bluish-Green,0 full defects,2 full defects,3
+#508075,11.20%,Green,0 full defects,5 full defects,1
+#458680,10.40%,Green,0 full defects,0 full defects,0
+#994915,10.30%,Bluish-Green,0 full defects,5 full defects,1
+#874548,10%,Blue-Green,0 full defects,0 full defects,0
+#444508,10%,Green,0 full defects,2 full defects,1
+#194737,10.70%,Green,0 full defects,2 full defects,0
+#975481,10.60%,Green,0 full defects,1 full defects,0
+#940597,11.50%,Green,0 full defects,0 full defects,0
+#695532,11.20%,Green,0 full defects,2 full defects,0
+#917862,10.30%,Green,0 full defects,0 full defects,0
+#210044,9.90%,Green,1 full defects,2 full defects,0
+#240429,9.60%,Greenish,0 full defects,0 full defects,0
+#797281,11.60%,brownish,0 full defects,0 full defects,0
+#760524,11.30%,Bluish-Green,0 full defects,0 full defects,0
+#409732,10.90%,Green,0 full defects,9 full defects,0
+#439097,10.20%,Green,0 full defects,0 full defects,0
+#462111,9.10%,Green,0 full defects,0 full defects,0
+#741289,11.70%,Green,0 full defects,0 full defects,1
+#748155,9.80%,Green,0 full defects,3 full defects,0
+#231917,10.10%,Bluish-Green,0 full defects,1 full defects,0
+#510790,11%,Yellow Green,0 full defects,4 full defects,5
+#237025,9.20%,Green,0 full defects,5 full defects,1
+#489089,10.10%,Yellow-green,3 full defects,7 full defects,0
+#203399,10.30%,brownish,0 full defects,4 full defects,0
+#955194,12.10%,Blue-Green,0 full defects,0 full defects,0
+#797284,10.70%,Green,0 full defects,3 full defects,1
+#586625,11.50%,Blue-Green,0 full defects,1 full defects,1
+#918509,10%,yellow green,0 full defects,1 full defects,0
+#781706,10%,Green,0 full defects,1 full defects,0
+#176177,10.20%,Green,0 full defects,2 full defects,0
+#988330,10.60%,yello-green,0 full defects,0 full defects,0
+#882894,11.90%,Green,0 full defects,0 full defects,0
+#114041,10.80%,Greenish,0 full defects,2 full defects,0
+#902618,11%,Green,0 full defects,2 full defects,1
+#605124,11.60%,Greenish,0 full defects,2 full defects,0
+#932904,11%,Green,0 full defects,2 full defects,2
+#119514,13.30%,Green,0 full defects,3 full defects,2
+#529473,9.40%,Green,0 full defects,0 full defects,0
+#740616,10.80%,greenish,0 full defects,0 full defects,0
+#791934,11.30%,Green,1 full defects,1 full defects,1
+#778301,9.80%,Greenish,0 full defects,3 full defects,0
+#903758,11.90%,greenish,0 full defects,0 full defects,0
+#820121,9.50%,Green,0 full defects,2 full defects,0
+#927000,10%,Green,0 full defects,2 full defects,1
+#279151,11.60%,yellowish,0 full defects,3 full defects,0
+#187142,11.80%,Green,0 full defects,3 full defects,3
+#849802,11.90%,Green,0 full defects,1 full defects,1
+#656708,12%,Green,0 full defects,12 full defects,0
+#858598,12.10%,Green,2 full defects,5 full defects,5
+#170699,11%,Greenish,0 full defects,0 full defects,0
+1,12%,Green,0,0,0
+2,12%,Green,0,1,0
+3,0%,,0,0,0
+4,11%,Green,0,2,0
+5,12%,Green,0,2,0
+6,11%,Bluish-Green,0,1,0
+7,11%,Bluish-Green,0,0,0
+8,3%,,0,0,0
+9,3%,,0,0,0
+10,10%,Green,0,4,0
+11,10%,,0,1,0
+12,0%,,0,0,0
+13,0%,,0,0,0
+14,0%,,0,2,0
+15,5%,,0,2,0
+16,0%,,0,0,0
+17,3%,,0,0,0
+18,5%,,0,2,0
+19,10%,Green,0,0,0
+20,0%,,0,8,0
+21,0%,None,0,0,0
+22,11%,Green,0,2,0
+23,13%,Green,0,0,0
+24,0%,,0,0,0
+25,11%,Bluish-Green,0,1,0
+26,12%,Green,0,2,0
+27,5%,,0,2,0
+28,12%,Green,0,1,0
+29,10%,Green,0,3,0
+30,0%,Green,0,0,0
+31,8%,,0,2,0
+32,11%,Bluish-Green,0,1,0
+33,12%,Green,0,2,0
+34,0%,Blue-Green,0,0,0
+35,10%,Green,0,3,0
+36,12%,Blue-Green,0,1,0
+37,0%,,1,4,0
+38,0%,,2,1,0
+39,10%,,0,2,0
+40,0%,,0,0,0
+41,10%,Green,1,9,0
+42,8%,,0,2,0
+43,1%,,0,3,0
+44,12%,Green,0,0,0
+45,11%,Bluish-Green,0,2,0
+46,11%,Blue-Green,0,2,0
+47,0%,,0,0,0
+48,12%,Green,1,1,0
+49,11%,Green,0,1,0
+50,10%,Blue-Green,0,0,0
+51,1%,,0,4,0
+52,0%,,0,0,0
+53,10%,Green,0,3,1
+54,12%,Green,0,0,0
+55,0%,Blue-Green,1,0,0
+56,8%,Bluish-Green,0,0,1
+57,10%,Green,0,4,0
+58,12%,Green,0,3,0
+59,10%,Bluish-Green,0,1,0
+60,9%,None,0,7,4
+61,10%,Green,4,6,0
+62,12%,Bluish-Green,0,1,0
+63,10%,Blue-Green,0,3,0
+64,11%,None,0,0,0
+65,0%,,0,1,0
+66,9%,,2,2,0
+67,10%,Green,0,3,0
+68,12%,Green,0,7,0
+69,12%,Green,0,1,0
+70,11%,Green,0,1,0
+71,10%,Green,0,18,0
+72,12%,Green,0,5,0
+73,0%,,4,6,0
+74,11%,Blue-Green,0,1,0
+75,1%,,0,0,0
+76,10%,Green,0,0,0
+77,11%,Green,0,1,0
+78,0%,Bluish-Green,0,0,0
+79,10%,Bluish-Green,0,2,0
+80,0%,Green,0,2,0
+81,0%,Green,0,6,0
+82,5%,,0,2,0
+83,10%,,0,3,0
+84,10%,Green,0,2,2
+85,11%,Green,0,0,0
+86,12%,Green,0,2,0
+87,11%,Green,0,3,0
+88,0%,,0,7,0
+89,11%,Green,0,8,1
+90,0%,,0,0,0
+91,10%,Green,2,7,0
+92,11%,Bluish-Green,2,2,0
+93,11%,Green,0,8,0
+94,1%,,1,7,0
+95,0%,,0,5,0
+96,0%,,0,0,0
+97,11%,Green,0,1,0
+98,0%,Green,0,3,0
+99,12%,Green,1,1,1
+100,9%,Green,0,3,0
+101,11%,Green,0,7,5
+102,0%,Green,0,5,0
+103,12%,Green,0,3,0
+104,0%,,0,0,0
+105,0%,,0,1,0
+106,4%,,0,1,0
+107,0%,,1,2,6
+108,12%,Green,0,1,0
+109,11%,Green,0,0,0
+110,12%,Green,0,2,0
+111,11%,Green,0,3,0
+112,11%,,0,0,0
+113,11%,Green,0,2,0
+114,12%,Green,0,2,0
+115,6%,,1,9,0
+116,0%,Green,0,0,0
+117,12%,Green,0,1,0
+118,0%,,3,15,0
+119,10%,,0,2,0
+120,10%,,0,4,0
+121,12%,Green,0,0,0
+122,13%,Green,0,0,0
+123,11%,Green,0,4,0
+124,15%,,0,3,0
+125,18%,,0,2,0
+126,0%,Blue-Green,0,2,0
+127,12%,Green,0,7,0
+128,12%,Green,0,0,0
+129,10%,Blue-Green,0,2,0
+130,10%,Green,0,1,0
+131,12%,Green,0,0,0
+132,10%,,0,3,0
+133,8%,Green,0,1,0
+134,11%,Green,0,4,0
+135,0%,Green,1,10,0
+136,11%,Green,0,0,0
+137,0%,Green,0,0,0
+138,11%,Bluish-Green,0,0,0
+139,11%,Green,0,4,0
+140,12%,Green,0,4,0
+141,13%,,0,3,0
+142,11%,Blue-Green,0,3,0
+143,0%,,0,3,0
+144,20%,,0,3,0
+145,11%,Blue-Green,0,5,0
+146,0%,Blue-Green,0,4,0
+147,0%,Green,0,5,1
+148,10%,Bluish-Green,0,2,0
+149,11%,Green,0,1,0
+150,9%,Green,0,0,0
+151,0%,,0,0,0
+152,0%,,0,5,0
+153,0%,Green,0,0,0
+154,0%,Green,0,2,0
+155,12%,Bluish-Green,0,2,0
+156,11%,Green,0,6,0
+157,12%,Green,0,2,0
+158,11%,Blue-Green,0,1,0
+159,10%,Bluish-Green,0,2,0
+160,11%,Green,0,1,0
+161,10%,Green,0,1,0
+162,11%,Green,0,0,0
+163,12%,Green,1,0,0
+164,0%,Green,0,2,0
+165,11%,Green,0,2,0
+166,11%,Blue-Green,0,0,0
+167,12%,Green,0,0,0
+168,11%,,0,4,0
+169,11%,Green,0,2,0
+170,0%,,0,4,0
+171,0%,,2,0,0
+172,10%,Blue-Green,0,3,0
+173,0%,Blue-Green,0,3,0
+174,0%,Green,0,1,0
+175,0%,Green,0,3,0
+176,11%,Blue-Green,0,0,0
+177,11%,Blue-Green,0,1,0
+178,12%,,2,4,0
+179,20%,,0,2,0
+180,11%,Green,0,4,0
+181,10%,Green,0,3,0
+182,0%,Green,0,5,3
+183,11%,Green,0,2,1
+184,0%,,0,4,2
+185,11%,Green,6,0,0
+186,0%,Green,0,0,0
+187,12%,Blue-Green,0,1,0
+188,0%,,0,4,0
+189,2%,,0,2,0
+190,0%,,0,1,0
+191,4%,,1,1,0
+192,12%,Blue-Green,0,0,0
+193,12%,Green,0,0,0
+194,11%,Green,0,2,0
+195,11%,Green,0,4,4
+196,10%,Green,0,1,0
+197,10%,Green,0,1,0
+198,11%,Green,0,3,0
+199,12%,Green,4,2,0
+200,12%,Green,0,0,0
+201,12%,Green,3,0,0
+202,12%,Green,0,7,0
+203,12%,Green,0,2,0
+204,10%,Green,0,1,0
+205,11%,Green,0,2,0
+206,11%,Bluish-Green,1,1,0
+207,12%,Green,0,1,0
+208,12%,Green,0,0,0
+209,10%,Bluish-Green,0,4,0
+210,13%,Green,4,29,0
+211,13%,Green,0,1,0
+212,0%,Green,0,2,0
+213,9%,Bluish-Green,0,2,0
+214,11%,Green,0,6,0
+215,10%,Green,0,10,1
+216,10%,Green,0,2,0
+217,0%,Bluish-Green,0,0,0
+218,12%,Bluish-Green,0,0,0
+219,0%,,0,16,0
+220,0%,Blue-Green,0,0,0
+221,10%,Green,0,5,0
+222,13%,Green,0,0,0
+223,12%,Green,0,4,0
+224,11%,Bluish-Green,0,0,0
+225,8%,Green,0,0,0
+226,11%,Green,0,3,0
+227,11%,Green,0,4,0
+228,11%,Bluish-Green,0,2,0
+229,0%,Green,0,2,0
+230,11%,Bluish-Green,0,2,0
+231,11%,Green,0,1,0
+232,12%,Bluish-Green,0,0,0
+233,0%,Green,1,3,3
+234,10%,Bluish-Green,0,4,0
+235,10%,Green,0,4,0
+236,0%,,0,2,0
+237,10%,Bluish-Green,0,10,0
+238,11%,Green,1,9,0
+239,11%,Green,1,10,0
+240,9%,,0,15,0
+241,8%,None,1,13,2
+242,11%,Green,3,1,11
+243,10%,Green,0,5,0
+244,12%,Green,0,7,0
+245,11%,Green,2,7,0
+246,10%,Green,0,1,0
+247,10%,Green,0,0,0
+248,12%,Green,0,0,0
+249,12%,Green,0,0,0
+250,12%,Green,0,3,0
+251,9%,Green,4,40,0
+252,10%,Green,0,0,0
+253,11%,Green,0,1,0
+254,0%,Green,0,2,0
+255,12%,Green,0,0,0
+256,0%,Bluish-Green,0,0,0
+257,10%,Green,10,26,0
+258,6%,,0,0,0
+259,0%,Green,0,3,0
+260,11%,Green,0,5,0
+261,10%,Bluish-Green,0,1,0
+262,11%,Green,0,7,2
+263,11%,Green,0,3,0
+264,11%,Green,1,2,0
+265,0%,,1,5,3
+266,0%,Blue-Green,0,0,0
+267,0%,,0,0,0
+268,0%,None,1,1,0
+269,0%,Green,0,1,0
+270,6%,Green,0,0,0
+271,12%,Green,0,3,0
+272,12%,Blue-Green,10,32,0
+273,11%,,0,2,0
+274,0%,Green,0,2,0
+275,0%,Green,1,6,0
+276,0%,Green,1,0,2
+277,0%,Blue-Green,0,0,0
+278,11%,Green,0,6,7
+279,0%,,0,0,0
+280,0%,Green,0,0,0
+281,0%,Green,0,1,0
+282,12%,Green,0,4,0
+283,0%,Green,0,1,0
+284,10%,Green,0,3,0
+285,10%,Green,0,1,0
+286,10%,Green,0,0,0
+287,9%,Bluish-Green,0,0,0
+288,11%,Green,0,1,0
+289,11%,Green,0,3,0
+290,10%,Green,0,2,0
+291,11%,,0,4,0
+292,12%,Green,0,3,0
+293,2%,,0,2,0
+294,1%,,0,0,0
+295,10%,,0,3,0
+296,11%,Green,0,2,0
+297,11%,Green,0,5,0
+298,11%,Green,0,1,0
+299,0%,Green,0,0,0
+300,0%,Green,1,4,0
+301,10%,Green,0,2,1
+302,0%,Green,0,0,0
+303,12%,Green,0,0,0
+304,12%,Green,0,1,0
+305,0%,Green,0,5,0
+306,0%,Green,0,3,0
+307,0%,Blue-Green,0,1,0
+308,11%,Green,0,3,0
+309,0%,Bluish-Green,0,0,0
+310,13%,None,5,5,0
+311,11%,Bluish-Green,0,1,0
+312,10%,,0,1,0
+313,6%,,0,1,0
+314,0%,,0,0,0
+315,11%,Green,0,2,0
+316,11%,Bluish-Green,0,0,0
+317,10%,Green,0,2,0
+318,10%,Green,0,3,0
+319,11%,Green,0,3,2
+320,10%,Bluish-Green,0,0,0
+321,11%,Blue-Green,0,1,0
+322,12%,Bluish-Green,0,0,0
+323,11%,,0,4,0
+324,10%,Green,0,0,0
+325,0%,Green,0,3,0
+326,0%,Green,0,1,0
+327,12%,Green,1,3,0
+328,11%,Green,0,2,0
+329,11%,Green,0,1,0
+330,11%,Green,0,1,0
+331,11%,Green,0,13,0
+332,12%,Green,4,11,0
+333,12%,Green,0,0,0
+334,10%,Green,0,0,0
+335,0%,,0,0,0
+336,11%,Green,0,5,0
+337,11%,Green,0,0,1
+338,11%,Green,0,4,0
+339,10%,Green,0,4,1
+340,12%,Green,0,3,0
+341,12%,Green,1,13,0
+342,0%,,0,7,0
+343,12%,Green,0,5,0
+344,0%,Green,0,0,0
+345,12%,Green,0,1,0
+346,0%,,0,0,0
+347,11%,Green,0,0,0
+348,11%,Green,0,3,0
+349,12%,,0,2,0
+350,11%,Green,0,4,0
+351,12%,Blue-Green,0,2,0
+352,0%,Bluish-Green,0,5,0
+353,11%,Blue-Green,0,0,0
+354,0%,Blue-Green,0,0,0
+355,0%,Green,0,0,0
+356,10%,Bluish-Green,0,5,2
+357,12%,Green,0,4,0
+358,13%,Green,0,21,0
+359,13%,Bluish-Green,0,8,0
+360,10%,,1,18,0
+361,0%,,1,0,0
+362,11%,Green,0,0,0
+363,10%,Green,0,0,0
+364,0%,,2,0,0
+365,10%,Green,0,3,0
+366,0%,Green,1,1,0
+367,11%,Green,0,2,NA
+368,13%,Green,0,14,0
+369,11%,Green,0,12,0
+370,12%,Green,0,0,0
+371,10%,Green,0,5,0
+372,11%,Green,0,0,0
+373,0%,Green,3,12,0
+374,1%,,0,0,0
+375,0%,,0,0,0
+376,0%,Green,0,1,2
+377,10%,Green,0,3,0
+378,11%,Green,0,2,0
+379,9%,Blue-Green,0,4,0
+380,11%,Blue-Green,0,0,0
+381,11%,Green,0,1,0
+382,13%,Bluish-Green,0,0,0
+383,11%,,0,0,0
+384,12%,Green,4,0,0
+385,12%,Green,0,6,0
+386,13%,Green,0,4,0
+387,12%,Green,0,1,0
+388,10%,Green,0,1,0
+389,10%,Green,0,2,0
+390,11%,Green,0,0,0
+391,0%,Green,0,2,0
+392,11%,Green,0,2,0
+393,10%,,1,3,0
+394,1%,,0,0,0
+395,11%,,0,0,0
+396,9%,,2,4,0
+397,0%,,0,0,1
+398,0%,Blue-Green,0,0,0
+399,0%,Green,1,2,0
+400,10%,Green,1,5,0
+401,12%,Green,0,2,0
+402,11%,Green,0,1,0
+403,12%,Green,0,6,0
+404,12%,Green,0,0,0
+405,12%,Green,0,3,0
+406,11%,Bluish-Green,0,1,0
+407,11%,Green,0,3,0
+408,12%,Green,0,5,0
+409,11%,Green,0,4,0
+410,11%,Green,0,1,0
+411,11%,Green,0,3,0
+412,10%,Bluish-Green,0,4,0
+413,0%,,0,5,0
+414,0%,Green,0,1,0
+415,1%,,0,0,0
+416,0%,,0,0,0
+417,11%,Blue-Green,0,0,0
+418,11%,Green,0,0,0
+419,11%,,0,0,0
+420,11%,Green,0,7,2
+421,12%,Green,0,1,0
+422,12%,Green,0,4,0
+423,0%,Green,0,2,0
+424,12%,Bluish-Green,0,2,0
+425,10%,Blue-Green,0,0,0
+426,10%,Green,0,0,0
+427,0%,Green,0,0,0
+428,10%,Green,0,1,0
+429,11%,Green,0,1,0
+430,12%,Green,0,6,0
+431,11%,Bluish-Green,0,4,0
+432,13%,Green,0,7,0
+433,12%,Blue-Green,0,0,0
+434,11%,Green,0,9,0
+435,11%,Blue-Green,0,1,0
+436,12%,Green,0,1,0
+437,11%,Green,0,0,0
+438,8%,,0,0,0
+439,13%,,0,1,0
+440,4%,,0,1,0
+441,11%,Green,0,4,0
+442,10%,Green,0,1,0
+443,12%,Green,0,3,0
+444,11%,Green,0,0,1
+445,7%,None,0,0,0
+446,11%,Green,2,3,2
+447,11%,Blue-Green,0,1,1
+448,11%,Green,0,0,0
+449,10%,Green,0,3,0
+450,0%,Green,0,0,0
+451,11%,Green,0,1,0
+452,12%,Green,0,3,0
+453,10%,Bluish-Green,0,1,0
+454,12%,Bluish-Green,0,0,0
+455,13%,Bluish-Green,0,6,0
+456,0%,,0,4,0
+457,10%,Bluish-Green,0,0,0
+458,11%,Green,10,3,0
+459,10%,Green,0,5,0
+460,11%,Green,0,3,0
+461,9%,Green,0,1,0
+462,11%,Bluish-Green,0,0,0
+463,12%,Green,0,1,0
+464,11%,Green,0,2,0
+465,11%,Green,0,2,0
+466,12%,None,3,8,0
+467,14%,None,0,10,0
+468,11%,Green,1,2,0
+469,13%,Green,0,5,0
+470,11%,Blue-Green,0,0,0
+471,11%,,0,5,0
+472,12%,Green,0,1,0
+473,11%,Green,0,4,0
+474,0%,Green,0,10,0
+475,12%,Blue-Green,0,3,0
+476,2%,,0,2,0
+477,14%,,0,3,0
+478,1%,,0,0,0
+479,0%,Green,0,4,1
+480,0%,Green,1,5,2
+481,11%,Bluish-Green,0,2,2
+482,0%,Green,0,3,0
+483,0%,Green,0,0,0
+484,11%,Green,0,13,0
+485,0%,Green,0,1,0
+486,10%,Green,0,3,0
+487,12%,Bluish-Green,0,8,0
+488,11%,,0,0,0
+489,10%,Bluish-Green,0,0,0
+490,10%,,0,1,0
+491,0%,,1,4,0
+492,12%,Green,0,0,0
+493,1%,,0,0,0
+494,8%,,1,3,0
+495,0%,,0,0,0
+496,2%,,0,1,0
+497,0%,Green,0,4,0
+498,11%,Green,0,5,3
+499,11%,Bluish-Green,0,3,2
+500,12%,Green,0,6,0
+501,12%,Green,0,8,5
+502,11%,Green,0,4,0
+503,0%,Green,0,0,0
+504,11%,Green,0,3,0
+505,11%,Green,0,2,0
+506,11%,Green,0,2,0
+507,0%,Green,0,0,0
+508,8%,Green,0,0,0
+509,12%,Green,0,0,0
+510,0%,Bluish-Green,0,0,0
+511,10%,Green,1,0,0
+512,11%,Green,0,3,0
+513,12%,Bluish-Green,0,4,0
+514,11%,Green,1,1,0
+515,0%,Green,0,0,0
+516,11%,Green,0,1,0
+517,0%,Green,0,2,0
+518,11%,Green,1,2,0
+519,11%,Green,0,20,0
+520,11%,Green,0,7,0
+521,11%,Green,5,8,0
+522,0%,,1,4,0
+523,0%,Green,0,4,0
+524,11%,Green,0,0,0
+525,10%,Green,0,2,0
+526,12%,Bluish-Green,0,0,0
+527,28%,,0,0,0
+528,8%,,0,1,0
+529,0%,,0,0,0
+530,0%,,0,1,0
+531,6%,,0,2,0
+532,7%,,0,0,0
+533,0%,,0,0,0
+534,0%,Green,0,0,0
+535,0%,Green,0,1,0
+536,11%,Green,0,1,0
+537,9%,Green,31,0,0
+538,0%,Bluish-Green,1,20,0
+539,0%,Green,0,9,0
+540,11%,Blue-Green,0,1,0
+541,0%,Bluish-Green,0,0,0
+542,13%,Blue-Green,0,3,0
+543,12%,Bluish-Green,2,8,0
+544,11%,Green,0,16,0
+545,12%,Green,0,0,0
+546,12%,Green,0,4,0
+547,10%,Green,0,1,0
+548,10%,Green,0,2,0
+549,10%,Green,0,4,0
+550,11%,Green,0,2,0
+551,0%,Bluish-Green,0,0,0
+552,11%,Green,0,2,0
+553,11%,Green,3,5,0
+554,10%,Green,0,4,0
+555,0%,None,0,17,0
+556,14%,Green,1,4,0
+557,10%,Green,0,0,0
+558,15%,,0,0,0
+559,0%,,0,0,0
+560,10%,Green,0,3,0
+561,11%,Green,1,2,1
+562,11%,Bluish-Green,0,2,2
+563,0%,Green,0,4,0
+564,11%,Bluish-Green,0,0,0
+565,11%,Green,11,0,0
+566,11%,Green,0,2,0
+567,12%,Green,2,6,0
+568,0%,,0,1,0
+569,0%,,0,9,0
+570,10%,Green,0,4,0
+571,0%,Green,4,4,0
+572,11%,Green,0,3,0
+573,11%,Green,0,5,0
+574,12%,Green,2,10,0
+575,12%,Blue-Green,0,7,0
+576,11%,Green,0,10,0
+577,11%,,0,2,0
+578,0%,,1,3,0
+579,10%,Green,0,3,1
+580,11%,Green,0,8,0
+581,11%,Green,0,4,0
+582,10%,Green,0,1,0
+583,10%,Green,0,1,0
+584,12%,Blue-Green,0,15,0
+585,12%,Green,0,0,0
+586,0%,Green,0,0,0
+587,0%,,0,4,0
+588,9%,Bluish-Green,0,1,0
+589,9%,Green,0,6,1
+590,11%,Bluish-Green,0,1,2
+591,10%,Green,0,0,0
+592,11%,Green,0,2,0
+593,0%,Blue-Green,0,2,0
+594,12%,Bluish-Green,0,0,0
+595,13%,Green,0,2,0
+596,12%,Green,0,0,0
+597,10%,Blue-Green,6,0,0
+598,10%,Green,0,0,0
+599,10%,Green,0,2,0
+600,12%,Green,0,6,0
+601,12%,,0,0,0
+602,12%,,1,4,0
+603,0%,Blue-Green,0,0,0
+604,11%,Green,0,3,0
+605,12%,Green,0,0,0
+606,0%,Green,0,4,0
+607,0%,,0,2,0
+608,0%,Green,0,4,0
+609,11%,Bluish-Green,0,3,2
+610,13%,Bluish-Green,0,0,0
+611,0%,Green,0,7,0
+612,11%,Green,0,3,2
+613,0%,Green,1,9,0
+614,0%,Green,0,0,0
+615,12%,,0,9,0
+616,12%,Green,0,0,0
+617,12%,Green,0,4,0
+618,8%,Green,0,0,0
+619,11%,Green,0,0,0
+620,12%,Green,0,0,0
+621,11%,Green,0,0,0
+622,11%,Bluish-Green,0,0,0
+623,11%,Bluish-Green,0,3,0
+624,0%,None,0,17,0
+625,11%,Green,0,0,0
+626,12%,Bluish-Green,0,0,0
+627,11%,,0,2,0
+628,12%,,0,0,0
+629,11%,Green,0,0,0
+630,3%,,2,0,0
+631,0%,,0,1,0
+632,8%,,0,3,0
+633,21%,,0,2,0
+634,10%,Green,0,2,1
+635,11%,Green,0,0,5
+636,11%,Green,0,7,0
+637,11%,Blue-Green,0,0,0
+638,0%,Green,1,2,9
+639,13%,Blue-Green,0,6,0
+640,12%,Green,0,0,0
+641,12%,Blue-Green,0,1,0
+642,12%,,0,1,0
+643,12%,Green,0,0,0
+644,11%,Green,0,3,0
+645,0%,Green,0,11,0
+646,0%,Blue-Green,0,4,0
+647,11%,Blue-Green,0,3,0
+648,11%,,0,3,0
+649,11%,Green,0,0,0
+650,10%,Green,0,6,0
+651,12%,Green,0,0,0
+652,11%,Green,2,2,0
+653,0%,,0,4,0
+654,11%,Green,0,4,0
+655,11%,Green,0,5,0
+656,10%,Green,0,4,0
+657,10%,Green,0,2,2
+658,12%,Green,0,0,0
+659,11%,,0,0,0
+660,12%,Green,0,1,0
+661,12%,Bluish-Green,0,3,0
+662,0%,Green,0,1,0
+663,11%,Bluish-Green,0,0,0
+664,12%,Green,0,4,0
+665,11%,Green,0,1,0
+666,11%,Green,0,0,0
+667,13%,None,0,10,0
+668,12%,Green,0,5,0
+669,11%,,0,2,0
+670,11%,Green,0,5,0
+671,0%,Blue-Green,0,4,0
+672,11%,Green,1,3,0
+673,12%,Green,2,3,0
+674,1%,,1,14,0
+675,12%,Green,0,6,1
+676,10%,Green,0,2,1
+677,12%,Green,0,0,0
+678,12%,Green,0,0,0
+679,11%,Green,0,3,2
+680,11%,Green,0,1,0
+681,10%,Green,0,0,0
+682,11%,Green,0,0,1
+683,13%,Green,0,7,0
+684,0%,Green,0,0,0
+685,10%,Green,0,0,0
+686,11%,Green,0,0,0
+687,12%,Blue-Green,0,1,0
+688,0%,Green,0,3,0
+689,0%,Green,0,0,0
+690,12%,Green,0,0,0
+691,9%,None,0,2,0
+692,11%,Green,0,9,0
+693,12%,Green,0,5,0
+694,13%,Green,0,2,0
+695,14%,Green,0,9,0
+696,13%,Green,0,1,0
+697,11%,Green,0,0,0
+698,14%,Green,0,6,0
+699,11%,Green,0,0,0
+700,13%,,0,4,0
+701,12%,Bluish-Green,0,0,0
+702,0%,,0,2,0
+703,11%,Blue-Green,0,2,0
+704,0%,Green,0,2,0
+705,2%,,0,1,0
+706,10%,Green,0,8,1
+707,11%,Green,0,11,3
+708,11%,Green,0,14,4
+709,11%,Bluish-Green,0,3,2
+710,10%,Bluish-Green,6,3,1
+711,0%,Green,0,0,2
+712,12%,Green,0,2,6
+713,7%,Green,0,0,0
+714,11%,Green,0,10,0
+715,10%,Green,0,6,0
+716,12%,Green,0,0,0
+717,11%,Blue-Green,0,0,0
+718,12%,Green,0,3,0
+719,11%,Green,0,0,0
+720,10%,Green,0,2,0
+721,11%,Green,0,0,0
+722,11%,Green,0,0,0
+723,12%,Green,2,1,0
+724,0%,Green,0,1,0
+725,12%,Green,0,3,0
+726,0%,Green,0,14,0
+727,11%,Green,0,3,0
+728,15%,None,1,8,0
+729,13%,Green,0,9,0
+730,10%,Green,2,5,0
+731,12%,Green,0,2,0
+732,11%,Green,0,0,0
+733,11%,Green,0,2,0
+734,0%,Green,0,0,0
+735,9%,Green,2,10,6
+736,10%,Blue-Green,0,0,0
+737,11%,Green,0,2,2
+738,0%,Green,0,9,0
+739,12%,Green,0,0,0
+740,11%,Green,0,2,0
+741,13%,Blue-Green,0,0,0
+742,11%,Green,0,0,0
+743,11%,Green,0,0,0
+744,12%,Blue-Green,0,4,0
+745,0%,Bluish-Green,0,1,0
+746,16%,None,3,8,0
+747,11%,Green,0,2,0
+748,13%,Green,0,3,0
+749,12%,Green,0,13,0
+750,0%,Green,2,5,0
+751,11%,Green,0,0,0
+752,10%,Green,0,3,0
+753,12%,Green,0,1,0
+754,11%,Green,0,0,0
+755,12%,Green,0,1,0
+756,22%,,0,2,0
+757,11%,Green,0,5,1
+758,11%,Bluish-Green,0,2,1
+759,10%,Green,0,1,0
+760,13%,Green,1,6,0
+761,12%,Green,0,1,0
+762,0%,Green,0,1,0
+763,12%,Bluish-Green,0,0,0
+764,11%,Green,0,2,0
+765,9%,Blue-Green,0,4,0
+766,12%,Green,0,1,0
+767,12%,Green,0,1,0
+768,12%,Green,0,0,0
+769,10%,None,1,1,0
+770,11%,Green,0,0,0
+771,0%,Green,0,0,0
+772,0%,Bluish-Green,0,1,0
+773,15%,None,1,9,0
+774,12%,None,0,2,0
+775,12%,Green,0,4,0
+776,10%,Green,0,1,0
+777,8%,,0,0,0
+778,15%,,0,3,0
+779,0%,Green,0,6,7
+780,11%,Green,0,3,1
+781,0%,Green,0,1,0
+782,0%,Blue-Green,0,0,0
+783,12%,Green,0,5,0
+784,12%,Green,0,3,0
+785,11%,Green,1,0,0
+786,11%,Green,0,2,0
+787,11%,Bluish-Green,0,0,0
+788,13%,Green,0,7,0
+789,13%,Green,3,13,0
+790,11%,Green,0,11,0
+791,12%,Green,0,2,0
+792,11%,Green,0,1,0
+793,10%,Green,0,2,0
+794,8%,,1,5,0
+795,12%,Green,0,1,0
+796,10%,Green,0,7,1
+797,11%,Green,0,3,2
+798,13%,Green,0,20,0
+799,12%,Blue-Green,0,0,0
+800,12%,Green,0,3,0
+801,13%,Bluish-Green,0,1,0
+802,9%,Green,0,0,0
+803,11%,Green,0,0,0
+804,10%,Green,0,4,0
+805,11%,Green,0,5,0
+806,11%,Green,0,1,0
+807,12%,Bluish-Green,0,0,0
+808,11%,Blue-Green,0,0,0
+809,12%,Green,0,1,0
+810,12%,Green,0,1,0
+811,11%,Blue-Green,0,1,0
+812,11%,Green,0,3,0
+813,12%,Green,0,2,0
+814,0%,Green,0,10,0
+815,7%,,0,2,0
+816,10%,Green,0,1,0
+817,11%,Green,0,0,2
+818,12%,Green,0,1,0
+819,11%,Green,0,4,0
+820,11%,Green,0,2,0
+821,11%,Green,0,7,0
+822,12%,Green,0,4,0
+823,12%,Green,3,4,0
+824,0%,,1,3,0
+825,11%,Green,0,0,0
+826,11%,Green,0,0,0
+827,12%,Green,0,6,0
+828,13%,None,2,7,0
+829,14%,None,2,8,0
+830,12%,Green,0,4,0
+831,12%,Green,0,0,0
+832,12%,Green,0,3,0
+833,9%,,0,1,0
+834,10%,Green,1,1,0
+835,0%,Green,1,4,0
+836,11%,Green,0,3,1
+837,11%,Green,0,0,1
+838,10%,Green,2,6,0
+839,0%,Green,0,1,0
+840,0%,Green,0,0,0
+841,0%,Green,0,2,0
+842,11%,Green,0,7,0
+843,12%,Green,0,1,0
+844,9%,Green,0,0,0
+845,0%,Green,0,0,0
+846,11%,None,2,6,0
+847,13%,Green,0,0,0
+848,11%,Green,0,0,0
+849,10%,Green,0,4,0
+850,11%,Green,0,0,0
+851,0%,Bluish-Green,2,0,0
+852,0%,Bluish-Green,1,1,0
+853,12%,Bluish-Green,0,0,0
+854,11%,Green,0,1,0
+855,12%,Green,0,2,0
+856,12%,Green,0,10,0
+857,2%,,0,2,0
+858,5%,,0,0,0
+859,2%,,3,12,0
+860,11%,Green,0,1,1
+861,12%,Bluish-Green,0,0,0
+862,12%,Bluish-Green,0,4,0
+863,10%,Bluish-Green,0,1,0
+864,13%,None,2,9,0
+865,13%,Green,0,23,0
+866,11%,Green,0,1,0
+867,12%,Green,10,14,0
+868,12%,,0,1,0
+869,0%,Green,0,1,0
+870,8%,,0,0,0
+871,11%,Green,0,5,0
+872,10%,Green,0,1,0
+873,12%,Green,0,3,1
+874,11%,Blue-Green,0,2,0
+875,0%,Green,0,1,0
+876,10%,Green,0,1,0
+877,0%,,0,1,1
+878,0%,Green,0,0,0
+879,12%,Green,0,0,0
+880,12%,Green,0,7,0
+881,10%,Green,0,2,0
+882,11%,Bluish-Green,0,0,0
+883,10%,Green,0,5,0
+884,11%,Green,0,3,0
+885,0%,Green,0,4,0
+886,11%,Green,0,0,0
+887,11%,Green,0,0,0
+888,12%,Green,0,6,0
+889,11%,Green,0,4,0
+890,13%,Green,1,13,0
+891,11%,Green,0,4,0
+892,11%,Green,0,2,0
+893,11%,Green,0,2,0
+894,11%,Green,0,4,0
+895,10%,Green,1,1,0
+896,11%,Blue-Green,0,3,1
+897,12%,Green,0,0,0
+898,10%,Blue-Green,0,0,0
+899,12%,Green,0,1,0
+900,12%,Green,0,5,0
+901,13%,Green,0,0,0
+902,0%,,0,0,0
+903,12%,Blue-Green,0,3,0
+904,12%,Green,0,1,0
+905,12%,Green,0,9,0
+906,11%,,0,0,0
+907,11%,,0,2,0
+908,1%,,0,0,0
+909,20%,,0,0,0
+910,0%,,0,1,0
+911,10%,Green,0,0,0
+912,11%,Green,0,3,0
+913,10%,Green,0,5,0
+914,12%,Green,0,0,0
+915,12%,Green,0,2,0
+916,0%,Green,0,4,0
+917,12%,Green,1,2,0
+918,12%,Green,0,0,0
+919,12%,Green,0,0,0
+920,11%,Blue-Green,0,0,0
+921,0%,Green,1,1,0
+922,11%,Bluish-Green,0,0,0
+923,11%,Green,0,0,0
+924,13%,Green,0,2,0
+925,12%,Green,0,5,0
+926,12%,Green,0,10,0
+927,11%,Green,0,6,0
+928,13%,Green,0,5,0
+929,11%,Green,0,3,0
+930,12%,Green,0,0,0
+931,12%,Blue-Green,0,2,0
+932,11%,Green,0,1,0
+933,6%,,1,0,0
+934,0%,,0,17,0
+935,12%,Green,1,17,5
+936,10%,Green,0,0,0
+937,11%,Green,0,2,0
+938,12%,Green,0,1,0
+939,12%,Green,0,0,0
+940,12%,Bluish-Green,0,0,0
+941,0%,Green,0,0,0
+942,10%,Green,0,6,0
+943,0%,Green,1,1,0
+944,10%,Bluish-Green,1,5,0
+945,12%,Green,0,4,0
+946,13%,None,1,8,0
+947,13%,,0,1,0
+948,11%,Green,0,0,0
+949,16%,,0,2,0
+950,1%,,0,10,0
+951,0%,,0,0,0
+952,11%,Bluish-Green,0,3,2
+953,12%,Green,0,0,2
+954,11%,Green,0,14,0
+955,9%,Green,0,4,0
+956,12%,Green,0,6,0
+957,14%,Green,0,3,0
+958,13%,Green,0,1,0
+959,12%,Green,0,3,0
+960,13%,Green,4,13,0
+961,12%,None,0,4,0
+962,11%,Green,0,0,0
+963,12%,Green,0,0,0
+964,0%,Green,0,1,0
+965,10%,Green,0,4,0
+966,12%,Green,0,1,0
+967,9%,Bluish-Green,0,2,0
+968,13%,Green,0,5,0
+969,11%,Green,0,0,0
+970,11%,Green,0,4,0
+971,12%,Green,0,1,0
+972,9%,Green,0,7,0
+973,12%,Green,0,2,0
+974,12%,Green,0,10,0
+975,11%,Bluish-Green,0,0,0
+976,13%,Green,0,1,0
+977,12%,Blue-Green,0,0,0
+978,0%,None,0,4,0
+979,12%,Bluish-Green,0,2,0
+980,12%,Green,0,12,0
+981,11%,Green,0,3,0
+982,11%,Green,0,3,0
+983,13%,Green,3,7,0
+984,12%,Green,0,4,0
+985,12%,Green,0,1,0
+986,4%,,3,0,0
+987,11%,,0,1,0
+988,11%,Green,5,8,0
+989,11%,,0,1,0
+990,0%,,0,0,0
+991,13%,Green,0,2,0
+992,13%,Green,0,0,0
+993,0%,Green,0,0,0
+994,13%,None,5,16,0
+995,12%,Green,0,2,0
+996,11%,Green,0,5,0
+997,10%,Green,0,1,0
+998,6%,Blue-Green,0,0,0
+999,11%,Green,0,9,6
+1000,0%,Green,0,6,2
+1001,11%,Bluish-Green,0,3,2
+1002,9%,Green,0,8,0
+1003,0%,Green,0,4,4
+1004,11%,Green,0,1,0
+1005,12%,Bluish-Green,0,0,0
+1006,12%,Green,0,1,0
+1007,12%,Green,0,0,0
+1008,12%,Green,0,5,0
+1009,12%,Green,0,3,0
+1010,11%,Green,0,0,0
+1011,0%,Green,0,3,0
+1012,12%,Green,0,12,0
+1013,0%,Green,0,8,0
+1014,0%,Blue-Green,0,0,0
+1015,10%,Green,0,2,0
+1016,11%,Green,0,3,0
+1017,11%,Green,0,11,0
+1018,0%,,0,5,0
+1019,10%,Bluish-Green,2,5,0
+1020,12%,Green,0,0,0
+1021,12%,Green,0,8,0
+1022,9%,Green,0,0,0
+1023,10%,None,0,0,0
+1024,10%,Green,1,3,0
+1025,12%,Green,2,5,0
+1026,11%,,0,0,0
+1027,11%,Green,0,0,0
+1028,11%,Green,0,0,0
+1029,13%,Green,0,12,0
+1030,0%,,0,0,0
+1031,0%,Green,0,0,0
+1032,11%,Green,0,1,0
+1033,13%,Green,0,7,0
+1034,11%,Green,0,3,0
+1035,13%,Green,0,1,0
+1036,10%,Blue-Green,2,0,0
+1037,1%,,0,1,0
+1038,0%,Green,0,1,0
+1039,0%,Green,0,2,0
+1040,12%,Green,0,1,0
+1041,12%,Green,0,5,0
+1042,11%,Green,0,2,0
+1043,11%,Green,1,4,0
+1044,9%,Green,0,2,0
+1045,13%,Green,0,1,0
+1046,11%,Green,0,0,0
+1047,11%,Green,0,2,0
+1048,12%,Green,0,0,0
+1049,13%,Bluish-Green,0,6,0
+1050,0%,Green,0,1,0
+1051,13%,Blue-Green,0,1,0
+1052,11%,Green,0,0,0
+1053,11%,Blue-Green,0,4,0
+1054,12%,Bluish-Green,0,1,0
+1055,12%,Green,0,4,0
+1056,0%,,0,1,0
+1057,12%,Green,0,5,0
+1058,11%,Green,0,2,0
+1059,11%,Green,0,3,0
+1060,18%,,0,2,0
+1061,11%,Green,0,7,0
+1062,11%,Green,0,0,1
+1063,12%,Bluish-Green,0,1,0
+1064,0%,Green,0,3,0
+1065,11%,Green,0,5,0
+1066,11%,Green,0,5,0
+1067,0%,,0,0,0
+1068,0%,,0,2,0
+1069,0%,Blue-Green,0,0,0
+1070,10%,Green,0,4,0
+1071,11%,Green,0,5,0
+1072,12%,Green,0,0,0
+1073,11%,Green,0,3,0
+1074,0%,Green,0,2,0
+1075,11%,Green,0,3,0
+1076,10%,None,0,10,0
+1077,11%,Green,1,0,0
+1078,12%,Green,1,1,0
+1079,15%,None,0,1,0
+1080,10%,Green,0,0,0
+1081,14%,Green,0,0,0
+1082,0%,Green,0,1,0
+1083,17%,Green,0,14,0
+1084,11%,Green,0,0,0
+1085,10%,Green,2,4,0
+1086,12%,Green,4,16,0
+1087,12%,Green,0,0,0
+1088,13%,Green,0,5,0
+1089,12%,Bluish-Green,0,5,0
+1090,11%,Green,0,0,0
+1091,11%,Green,1,4,0
+1092,11%,Green,0,21,0
+1093,12%,Green,5,7,0
+1094,10%,,0,1,0
+1095,11%,Green,0,1,1
+1096,10%,Green,0,4,0
+1097,10%,Green,0,2,0
+1098,11%,Green,1,26,0
+1099,0%,Green,0,1,0
+1100,11%,Green,0,2,0
+1101,12%,Green,4,13,0
+1102,10%,Green,0,0,0
+1103,11%,Green,0,0,0
+1104,11%,Green,1,12,0
+1105,11%,None,2,8,0
+1106,0%,,0,2,0
+1107,11%,,0,2,0
+1108,11%,Green,0,0,0
+1109,11%,Green,0,2,0
+1110,11%,Green,0,2,0
+1111,14%,Green,1,2,0
+1112,12%,Green,0,12,0
+1113,11%,Green,0,5,0
+1114,5%,,12,1,0
+1115,11%,Green,0,5,0
+1116,7%,Green,0,0,0
+1117,10%,Green,0,4,0
+1118,11%,Green,0,0,0
+1119,11%,Green,0,0,0
+1120,11%,Green,0,0,0
+1121,15%,None,0,0,0
+1122,14%,Green,1,17,0
+1123,10%,Green,0,5,0
+1124,0%,Green,0,4,0
+1125,0%,Green,0,2,0
+1126,11%,Green,0,0,0
+1127,0%,Green,0,0,0
+1128,12%,Green,0,9,0
+1129,11%,Green,0,12,0
+1130,5%,,0,2,0
+1131,0%,Green,0,1,0
+1132,11%,Green,1,3,0
+1133,12%,Green,0,4,0
+1134,12%,Green,1,7,0
+1135,0%,,0,0,0
+1136,11%,Green,0,3,0
+1137,12%,Green,0,6,0
+1138,11%,Green,0,0,0
+1139,5%,,3,0,0
+1140,11%,,0,5,1
+1141,10%,Green,0,2,0
+1142,11%,Green,0,0,0
+1143,12%,Green,0,3,0
+1144,12%,Blue-Green,7,10,0
+1145,10%,Green,0,1,4
+1146,0%,,0,0,0
+1147,10%,Blue-Green,0,0,0
+1148,12%,Green,0,0,0
+1149,12%,Green,1,2,0
+1150,10%,Bluish-Green,0,4,0
+1151,12%,Green,0,4,0
+1152,13%,Green,0,4,0
+1153,12%,Green,0,5,0
+1154,14%,None,0,0,0
+1155,10%,Green,1,22,0
+1156,0%,Green,0,4,0
+1157,12%,,0,7,0
+1158,10%,Green,0,1,2
+1159,0%,Bluish-Green,0,12,0
+1160,12%,Blue-Green,0,0,0
+1161,11%,Green,0,6,0
+1162,12%,Green,0,6,0
+1163,13%,None,5,6,0
+1164,0%,,0,9,0
+1165,0%,,1,0,0
+1166,12%,None,0,11,0
+1167,13%,Green,0,5,0
+1168,10%,,0,4,0
+1169,17%,,1,19,0
+1170,12%,Green,0,6,0
+1171,0%,,0,1,0
+1172,0%,Green,0,2,0
+1173,12%,Green,1,20,0
+1174,12%,Bluish-Green,0,5,0
+1175,10%,Green,0,2,0
+1176,10%,Green,1,4,0
+1177,13%,Green,0,30,0
+1178,13%,Bluish-Green,1,2,0
+1179,0%,Green,0,3,0
+1180,14%,None,0,23,0
+1181,14%,Green,0,19,0
+1182,11%,Green,0,6,0
+1183,11%,Blue-Green,0,0,0
+1184,13%,Green,0,10,0
+1185,10%,Green,0,0,0
+1186,11%,Green,0,5,0
+1187,11%,Green,0,6,8
+1188,11%,Green,0,6,0
+1189,10%,None,5,20,0
+1190,14%,None,0,8,0
+1191,14%,Green,0,34,0
+1192,1%,,0,8,0
+1193,10%,Green,0,1,0
+1194,13%,Green,0,0,0
+1195,16%,None,0,2,0
+1196,11%,Green,0,45,0
+1197,10%,Bluish-Green,0,0,0
+1198,10%,,0,3,0
+1199,12%,Green,0,3,0
+1200,11%,Green,0,12,0
+1201,0%,,0,4,0
+1202,12%,None,0,12,0
+1203,14%,Green,3,17,0
+1204,14%,Green,7,38,0
+1205,12%,Green,0,8,0
+1206,16%,None,0,0,0
+1207,10%,Green,0,4,2
+1208,12%,Green,5,8,0
+1209,12%,Green,1,8,0
+1210,14%,Green,0,0,0
+1211,14%,None,0,0,0
+1212,12%,,0,0,0
+1213,0%,Green,0,5,0
+1214,13%,None,0,2,0
+1215,10%,Green,1,7,5
+1216,11%,Green,1,1,0
+1217,12%,Green,0,3,0
+1218,10%,Green,0,0,0
+1219,13%,Green,0,1,0
+1220,10%,,0,1,0
+1221,0%,,0,0,0
+1222,0%,Green,0,0,0
+1223,12%,None,0,14,0
+1224,13%,Green,1,3,0
+1225,12%,Green,3,4,0
+1226,14%,None,0,0,0
+1227,10%,Bluish-Green,0,0,0
+1228,10%,Green,0,2,0
+1229,11%,Green,1,4,0
+1230,13%,Green,31,47,0
+1231,11%,Green,0,9,0
+1232,11%,Green,2,8,0
+1233,11%,Green,4,31,0
+1234,13%,,0,1,0
+1235,11%,Green,0,3,0
+1236,0%,Green,3,4,0
+1237,11%,Green,2,6,0
+1238,12%,Green,2,3,0
+1239,10%,Green,1,2,0
+1240,10%,Green,0,28,0
+1241,11%,Green,3,9,0
+1242,12%,Green,2,7,0
+1243,10%,Green,1,3,0
+1244,12%,Green,2,4,0
+1245,11%,Green,0,3,0
+1246,11%,Green,0,7,0
+1247,10%,Bluish-Green,0,0,0
+1248,11%,,0,2,0
+1249,11%,Green,0,2,0
+1250,11%,Bluish-Green,0,0,0
+1251,12%,Green,1,5,0
+1252,13%,Green,0,3,0
+1253,11%,Green,2,15,0
+1254,0%,Green,0,3,0
+1255,10%,Green,1,2,0
+1256,15%,None,4,5,0
+1257,10%,,0,1,0
+1258,12%,Green,1,5,0
+1259,12%,Green,1,11,0
+1260,0%,Green,7,9,0
+1261,0%,Green,0,0,7
+1262,0%,,0,0,0
+1263,12%,None,0,4,0
+1264,13%,Green,0,14,0
+1265,11%,Green,0,8,0
+1266,11%,,0,5,0
+1267,0%,Green,0,0,0
+1268,0%,Bluish-Green,0,3,0
+1269,16%,None,2,4,0
+1270,12%,None,4,26,0
+1271,12%,Green,0,12,0
+1272,11%,Green,0,7,0
+1273,12%,Green,0,2,0
+1274,11%,Green,0,6,1
+1275,11%,Green,0,15,0
+1276,12%,,0,10,0
+1277,11%,Green,4,20,0
+1278,11%,Green,0,20,0
+1279,12%,,0,8,0
+1280,13%,Bluish-Green,23,29,0
+1281,14%,Green,15,7,0
+1282,17%,None,0,6,0
+1283,12%,Green,0,30,0
+1284,11%,,0,8,0
+1285,11%,,0,10,0
+1286,12%,Green,0,7,0
+1287,0%,Blue-Green,1,2,0
+1288,11%,Green,1,1,0
+1289,14%,Green,3,11,0
+1290,13%,None,0,27,0
+1291,12%,Green,0,19,0
+1292,0%,,9,17,0
+1293,11%,Green,0,0,1
+1294,11%,Green,1,16,0
+1295,0%,,1,1,0
+1296,0%,Bluish-Green,0,15,0
+1297,11%,Green,5,9,0
+1298,8%,,1,0,0
+1299,11%,Green,0,7,0
+1300,12%,Green,4,24,0
+1301,11%,Green,0,0,0
+1302,12%,Green,0,1,0
+1303,11%,Green,0,55,1
+1304,10%,Green,0,4,0
+1305,10%,Green,0,3,0
+1306,10%,Green,0,4,0
+1307,11%,None,0,20,0
+1308,14%,Blue-Green,8,16,0
+1309,13%,Green,1,5,0
+1310,10%,Green,0,4,0
+1312,12%,Green,0,2,0
