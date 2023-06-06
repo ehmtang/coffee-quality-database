@@ -2,7 +2,7 @@
 ehmtang:
 * Made edits to web scraper
 * Data collected from the Coffee Quality Institute's [review pages](https://database.coffeeinstitute.org/) in May 2023
-* Building Looker Studio report and BigQuery queries
+* Building [Looker Studio report](https://lookerstudio.google.com/s/pd4-SfZl3rg) and [BigQuery queries]()
 
 ___
 
